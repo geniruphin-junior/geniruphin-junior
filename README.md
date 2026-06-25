@@ -1,10 +1,3 @@
-## 🏆 Voici  les archivemments que je vise sur github
-
-![Pull Shark](https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png)
-![YOLO](https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png)
-![Galaxy Brain](https://github.githubassets.com/images/modules/profile/achievements/galaxy-brain-default.png)
-![Starstruck](https://github.githubassets.com/images/modules/profile/achievements/starstruck-default.png)
-
 ## 📊 Mes Badges Data Science
 
 ![Pandas](https://img.shields.io/badge/Data-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
