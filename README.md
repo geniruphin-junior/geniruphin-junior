@@ -1,145 +1,159 @@
 <div align="center">
 
-# 👋 Hi, I'm RUPHIN Dev
+# RUPHIN Dev
 
-### 🚀 Full Stack Developer • Data Science Enthusiast • AI Builder
+### Full Stack Developer • Data Science Student • AI Builder
 
-*"Building software that solves real-world problems through AI, Data Science, and Web Technologies."*
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=23&pause=1200&color=4FC3F7&center=true&vCenter=true&width=750&lines=Building+AI+Applications.;Python+%7C+C%2B%2B+%7C+TypeScript.;Future+Full+Stack+Data+Scientist.;Open+Source+Developer." />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Future+Data+Scientist;Python+%7C+C%2B%2B+%7C+TypeScript;Machine+Learning+Enthusiast;Open+Source+Contributor;Always+Learning..." />
+<p>
+
+<a href="https://github.com/geniruphin-junior">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="mailto:geniruphin@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://reddit.com/user/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"/>
+</a>
+
+</p>
 
 </div>
 
 ---
 
-# 💫 About Me
+# 👋 About Me
 
-- 🧠 Passionate about Artificial Intelligence and Data Science
-- 💻 Building modern Full Stack applications
-- 📊 Interested in Machine Learning and Scientific Computing
-- 🌍 Creating open-source projects for African developers
-- 📚 Constantly learning and improving every day
+I'm a passionate developer focused on **Artificial Intelligence**, **Data Science**, and **Full Stack Development**.
 
-> **My dream is to become a world-class Full Stack Data Scientist.**
+My goal is to design software that solves real-world problems through intelligent systems, scientific computing, and modern web technologies.
+
+Currently, I'm expanding my expertise in modern C++, Machine Learning, backend engineering, and software architecture while building ambitious open-source projects.
+
+> **Dream:** Become a world-class Full Stack Data Scientist and build products that create real impact.
 
 ---
 
-# 🚀 Current & Future Projects
+# 🚀 Featured Projects
 
-## 🧬 BioPy
+### 🧬 BioPy *(Coming Soon)*
 
-A Python library for **Medicine**, **Biology**, and Scientific Computing.
+A Python ecosystem for medicine and biology.
 
-Features planned:
+**Focus**
 
 - Medical data analysis
-- Biological computations
+- Biological computing
 - Scientific utilities
-- Healthcare AI tools
+- AI for healthcare
+- Research tools
 
 ---
 
-## 💬 DevChat
+### 💬 DevChat *(In Development)*
 
-A collaborative platform built for **African developers**.
+A collaborative platform designed for African developers.
 
-Goals:
+**Features**
 
-- Developer discussions
-- AI-powered coding assistant
-- Project collaboration
-- Learning community
-
----
-
-## 🌐 Profilio
-
-A modern portfolio platform where developers can showcase their work.
-
-Features:
-
-- Beautiful portfolios
-- Project management
-- Skills showcase
-- Resume generation
-- GitHub integration
+- AI Coding Assistant
+- Developer Community
+- Team Collaboration
+- Knowledge Sharing
+- Modern Messaging
 
 ---
 
-# 🛠 Languages & Tools
+### 🌍 Profilio *(Coming Soon)*
+
+A modern developer portfolio platform.
+
+Built to help developers showcase:
+
+- Projects
+- Skills
+- Experience
+- GitHub Activity
+- Professional Resume
+
+---
+
+# 🛠 Languages & Technologies
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,cpp,js,ts,firebase,nodejs,flask,fastapi,pytorch,tensorflow,sklearn,docker,git,github,vscode&perline=8"/>
+
+<img src="https://skillicons.dev/icons?i=python,cpp,js,ts,nodejs,firebase,flask,fastapi,pytorch,tensorflow,git,github,docker,vscode&perline=7"/>
+
 </p>
 
 <p align="center">
-<img src="https://go-skill-icons.vercel.app/api/icons?i=plotly,dash"/>
+
+<img src="https://go-skill-icons.vercel.app/api/icons?i=sklearn,plotly,dash"/>
+
 </p>
 
 ---
 
-# 💻 What I Enjoy Building
+# 💡 Areas of Interest
 
-- 🤖 AI Applications
-- 📊 Data Analysis Tools
-- 🌐 Full Stack Web Apps
-- 🧬 Scientific Software
-- 📂 File Processing Systems
-- ⚡ Automation Tools
-- 📈 Data Visualization Dashboards
+- Artificial Intelligence
+- Machine Learning
+- Data Science
+- Scientific Computing
+- Backend Development
+- Full Stack Applications
+- Data Visualization
+- Open Source
 
 ---
 
 # 🌱 Currently Learning
 
-- Advanced C++
-- Data Structures & Algorithms
+- Modern C++
+- Software Architecture
 - Machine Learning
 - Deep Learning
-- Software Architecture
-- High Performance Computing
+- Algorithms
+- Data Structures
 
 ---
 
-# 🎯 2026 Goals
-
-- 🚀 Publish BioPy
-- 💬 Launch DevChat
-- 🌐 Release Profilio
-- 🤝 Contribute to Open Source
-- 📚 Master Modern C++
-- 🧠 Become a Full Stack Data Scientist
-
----
-
-# 📈 GitHub Stats
+# 📊 GitHub Analytics
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=geniruphin-junior&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=geniruphin-junior&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=geniruphin-junior&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 ---
 
-# 🔥 GitHub Streak
+# 🤝 Connect With Me
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+<a href="mailto:geniruphin@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-</p>
+<a href="https://github.com/geniruphin-junior">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
 
----
-
-# 📫 Connect with Me
-
-<p align="center">
-
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://skillicons.dev/icons?i=github"/>
+<a href="https://reddit.com/user/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"/>
 </a>
 
 </p>
@@ -148,8 +162,8 @@ Features:
 
 <div align="center">
 
-### ⭐ "Code with purpose. Learn continuously. Build for impact."
+### "Building software that matters."
 
-**Thanks for visiting my profile!**
+⭐ Thanks for visiting my profile.
 
 </div>
