@@ -1,9 +1,19 @@
 ## 🛠️ Technologies & Compétences
 
-### 🛠️ Languages & Tools
+### ⚔️ Languages & Tools
 
-[![My Skills](https://skillicons.dev)](https://skillicons.dev)
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev" />
+  </a>
+</p>
 
-### 📊 Mes Badges Data Science
+### 📊 Data Science & Deep Learning
 
-![Pandas](https://shields.io) ![NumPy](https://shields.io) ![TensorFlow](https://shields.io) ![PyTorch](https://shields.io) ![Plotly](https://shields.io) ![Polars](https://shields.io)
+![Pandas](https://shields.io)
+![NumPy](https://shields.io)
+![Scikit-Learn](https://shields.io)
+![Polars](https://shields.io)
+![TensorFlow](https://shields.io)
+![PyTorch](https://shields.io)
+![Plotly](https://shields.io)
