@@ -1,17 +1,33 @@
 ## 🛠️ Technologies & Compétences
 
 ### 💻 Langages de Programmation
-
-![Python](https://shields.io) ![Cplusplus](https://shields.io) ![TypeScript](https://shields.io) ![JavaScript](https://shields.io)
+<p align="left">
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+</p>
 
 ### 📊 Data Science, Machine Learning & AI
-
-![Pandas](https://shields.io) ![NumPy](https://shields.io) ![Scikit-Learn](https://shields.io) ![Polars](https://shields.io) ![TensorFlow](https://shields.io) ![PyTorch](https://shields.io)
+<p align="left">
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+</p>
 
 ### 📈 Data Visualization & Frameworks Web
-
-![Plotly](https://shields.io) ![Dash](https://shields.io) ![Flask](https://shields.io)
+<p align="left">
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+</p>
 
 ### 🐚 Scripting, Automatisation & DevOps
-
-![Bash](https://shields.io) ![PowerShell](https://shields.io) ![Git](https://shields.io)
+<p align="left">
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+</p>
