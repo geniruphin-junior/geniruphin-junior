@@ -1,33 +1,9 @@
 ## 🛠️ Technologies & Compétences
 
-### 💻 Langages de Programmation
-<p align="left">
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-</p>
+### 🛠️ Languages & Tools
 
-### 📊 Data Science, Machine Learning & AI
-<p align="left">
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-</p>
+[![My Skills](https://skillicons.dev)](https://skillicons.dev)
 
-### 📈 Data Visualization & Frameworks Web
-<p align="left">
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-</p>
+### 📊 Mes Badges Data Science
 
-### 🐚 Scripting, Automatisation & DevOps
-<p align="left">
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-</p>
+![Pandas](https://shields.io) ![NumPy](https://shields.io) ![TensorFlow](https://shields.io) ![PyTorch](https://shields.io) ![Plotly](https://shields.io) ![Polars](https://shields.io)
