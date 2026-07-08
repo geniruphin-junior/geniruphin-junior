@@ -1,4 +1,4 @@
-````markdown
+
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:020617,25:0f172a,50:0369a1,75:0ea5e9,100:38bdf8&text=RUPHIN%20BAHATI&fontColor=ffffff&fontSize=62&animation=fadeIn&fontAlignY=40&desc=Python%20Developer%20•%20AI%20Enthusiast%20•%20Scientific%20Student&descAlignY=58"/>
@@ -162,7 +162,7 @@ Building public projects
 
 </div>
 
----
+
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:38bdf8,100:020617"/>
 ````
