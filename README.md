@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:020617,25:0f172a,50:0369a1,75:0ea5e9,100:38bdf8&text=RUPHIN%20BAHATI&fontColor=ffffff&fontSize=62&animation=fadeIn&fontAlignY=40&desc=Python%20Developer%20•%20AI%20Enthusiast%20•%20Scientific%20Student&descAlignY=58"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:020617,25:0f172a,50:0369a1,75:0ea5e9,100:38bdf8&text=RUPHIN%20JUNIOR&fontColor=ffffff&fontSize=62&animation=fadeIn&fontAlignY=40&desc=Python%20Developer%20•%20AI%20Enthusiast%20•%20Scientific%20Student&descAlignY=58"/>
 
 <br>
 
@@ -136,25 +136,7 @@ Building public projects
 
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=geniruphin-junior&layout=compact&theme=tokyonight&hide_border=true"/>
 
-</p>
 
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=geniruphin-junior&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=geniruphin-junior&theme=tokyo-night&hide_border=true"/>
-
-</p>
-
----
-
-<div align="center">
 
 ## ⚙ Tech Stack
 
@@ -344,3 +326,24 @@ Today
  ├── Scientific Computing
  │
  └── Open Source Contributions
+```
+
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=geniruphin-junior&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=geniruphin-junior&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+<div align="center">
