@@ -187,6 +187,108 @@ Building public projects
 <img src="https://img.shields.io/badge/STATUS-ACTIVE-00C853?style=for-the-badge"/>
 
 A modern Python application designed to analyze datasets efficiently.
+---
+
+<div align="center">
+
+# ⚡ Mission
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=19&duration=2200&pause=1200&color=38BDF8&center=true&vCenter=true&width=750&lines=Writing+Code+With+Purpose;Learning+Through+Building;Creating+Projects+That+Matter"/>
+
+</div>
+
+> I believe that the best way to learn is to build.
+
+Every project on this profile represents a step forward.
+
+I'm continuously improving my programming skills by creating practical software, exploring artificial intelligence, experimenting with data analysis, and learning modern software engineering practices.
+
+My goal is not simply to write code—but to understand how technology can solve meaningful problems.
+
+---
+
+<div align="center">
+
+# 🌌 Project Universe
+
+</div>
+
+| Project | Status | Purpose |
+|:-------:|:------:|---------|
+| 📊 **Data Analyzer** | 🟢 Active | Data analysis and visualization |
+| 🧬 **BioPy** | 🔵 Design | Scientific computing for biology |
+| 🌿 **Medicinal Plant AI** | 🟣 Research | AI experiments on biological datasets |
+| 🤖 **Ruphia AI** | 🟡 Future | Personal AI assistant ecosystem |
+
+---
+
+<div align="center">
+
+# 🛰 Development Philosophy
+
+</div>
+
+```text
+          Learn
+             │
+             ▼
+      Experiment
+             │
+             ▼
+        Build Projects
+             │
+             ▼
+      Improve Skills
+             │
+             ▼
+      Share Open Source
+             │
+             ▼
+      Repeat Every Day
+```
+
+---
+
+<div align="center">
+
+# 🧠 Current Learning Path
+
+</div>
+
+<img src="https://skillicons.dev/icons?i=python,cpp,git,github,nodejs,flask,fastapi,firebase&perline=8"/>
+
+| Topic | Progress |
+|------|-----------|
+| 🐍 Python | ████████████ 95% |
+| ⚙ Modern C++ | ███████░░░░ 55% |
+| 📊 Data Analysis | █████████░░ 75% |
+| 🤖 Machine Learning | ██████░░░░ 45% |
+| 🏗 Software Architecture | ███████░░░ 60% |
+| 🌐 Backend Development | ████████░░ 70% |
+
+---
+
+<div align="center">
+
+# 🚀 Next Milestones
+
+</div>
+
+- ✅ Continue improving Data Analyzer
+- ⚙ Master Modern C++
+- 🤖 Learn more Machine Learning
+- 🧬 Start building BioPy
+- 🌿 Begin research on Medicinal Plant AI
+- 🌍 Contribute to Open Source projects
+- 💡 Keep learning by creating real software
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:020617,50:38bdf8,100:020617"/>
+
+</div>
 
 ### Features
 
