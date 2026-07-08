@@ -165,4 +165,98 @@ Building public projects
 
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:38bdf8,100:020617"/>
-````
+
+---
+
+<div align="center">
+
+# 🚀 Featured Projects
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2500&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Projects+I'm+Building;Learning+by+Creating;Open+Source+Journey"/>
+
+</div>
+
+<table>
+
+<tr>
+
+<td width="50%">
+
+## 📊 Data Analyzer
+
+<img src="https://img.shields.io/badge/STATUS-ACTIVE-00C853?style=for-the-badge"/>
+
+A modern Python application designed to analyze datasets efficiently.
+
+### Features
+
+- 📁 CSV & Excel Support
+- 📈 Data Visualization
+- 🧹 Data Cleaning
+- 📊 Statistics
+- 🔍 Missing Value Detection
+- 🛡 Secure File Validation
+- ⚡ Fast Analysis
+- 📄 Report Generation
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python">
+
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit">
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas">
+
+<img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly">
+
+</td>
+
+<td width="50%">
+
+## 🧬 BioPy
+
+<img src="https://img.shields.io/badge/STATUS-IN%20DESIGN-0284C7?style=for-the-badge"/>
+
+My long-term dream project.
+
+A future open-source library dedicated to biology, scientific computing and research.
+
+### Planned Features
+
+- 🌿 Biological Computing
+- 🧬 Scientific Utilities
+- 📊 Biological Data Analysis
+- 🤖 AI Research Tools
+- 🔬 Research APIs
+- 📚 Educational Modules
+
+<img src="https://img.shields.io/badge/Future_Project-0ea5e9?style=flat-square">
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+<div align="center">
+
+# 💡 Future Vision
+
+</div>
+
+```text
+Today
+ │
+ ├── Python Projects
+ │
+ ├── Data Analyzer
+ │
+ ├── Modern C++
+ │
+ ├── Artificial Intelligence
+ │
+ ├── BioPy
+ │
+ ├── Scientific Computing
+ │
+ └── Open Source Contributions
