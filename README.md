@@ -191,6 +191,43 @@ A modern Python application designed to analyze datasets efficiently.
 
 <div align="center">
 
+## 🧬 BioPy
+
+<img src="https://img.shields.io/badge/STATUS-IN%20DESIGN-0284C7?style=for-the-badge"/>
+
+My long-term dream project.
+
+A future open-source library dedicated to biology, scientific computing and research.
+
+### Planned Features
+
+- 🌿 Biological Computing
+- 🧬 Scientific Utilities
+- 📊 Biological Data Analysis
+- 🤖 AI Research Tools
+- 🔬 Research APIs
+- 📚 Educational Modules
+
+<img src="https://img.shields.io/badge/Future_Project-0ea5e9?style=flat-square">
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+<div align="center">
+
+# 💡 Future Vision
+
+</div>
+<td width="50%">
+---
+
+<div align="center">
+
 # ⚡ Mission
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=19&duration=2200&pause=1200&color=38BDF8&center=true&vCenter=true&width=750&lines=Writing+Code+With+Purpose;Learning+Through+Building;Creating+Projects+That+Matter"/>
@@ -290,61 +327,6 @@ My goal is not simply to write code—but to understand how technology can solve
 
 </div>
 
-### Features
-
-- 📁 CSV & Excel Support
-- 📈 Data Visualization
-- 🧹 Data Cleaning
-- 📊 Statistics
-- 🔍 Missing Value Detection
-- 🛡 Secure File Validation
-- ⚡ Fast Analysis
-- 📄 Report Generation
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python">
-
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit">
-
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas">
-
-<img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly">
-
-</td>
-
-<td width="50%">
-
-## 🧬 BioPy
-
-<img src="https://img.shields.io/badge/STATUS-IN%20DESIGN-0284C7?style=for-the-badge"/>
-
-My long-term dream project.
-
-A future open-source library dedicated to biology, scientific computing and research.
-
-### Planned Features
-
-- 🌿 Biological Computing
-- 🧬 Scientific Utilities
-- 📊 Biological Data Analysis
-- 🤖 AI Research Tools
-- 🔬 Research APIs
-- 📚 Educational Modules
-
-<img src="https://img.shields.io/badge/Future_Project-0ea5e9?style=flat-square">
-
-</td>
-
-</tr>
-
-</table>
-
----
-
-<div align="center">
-
-# 💡 Future Vision
-
-</div>
 
 ```text
 Today
