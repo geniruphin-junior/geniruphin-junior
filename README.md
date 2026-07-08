@@ -1,134 +1,140 @@
+````markdown
 <div align="center">
 
-# RUPHIN Dev
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:020617,25:0f172a,50:0369a1,75:0ea5e9,100:38bdf8&text=RUPHIN%20BAHATI&fontColor=ffffff&fontSize=62&animation=fadeIn&fontAlignY=40&desc=Python%20Developer%20•%20AI%20Enthusiast%20•%20Scientific%20Student&descAlignY=58"/>
 
-### Full Stack Developer • Data Science Student • AI Builder
+<br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=23&pause=1200&color=4FC3F7&center=true&vCenter=true&width=750&lines=Building+AI+Applications.;Python+%7C+C%2B%2B+%7C+TypeScript.;Future+Full+Stack+Data+Scientist.;Open+Source+Developer." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1200&color=38BDF8&center=true&vCenter=true&width=900&lines=Building+AI+Applications;Python+%7C+C%2B%2B+%7C+JavaScript;Exploring+Data+Science;Scientific+Computing;Open+Source+Developer;Always+Learning+Something+New"/>
 
-<p>
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=geniruphin-junior&label=Visitors&color=0ea5e9&style=for-the-badge"/>
+
+<img src="https://img.shields.io/github/commit-activity/m/geniruphin-junior/Ruphia-IA?style=for-the-badge&color=0284c7"/>
+
+<img src="https://img.shields.io/github/issues/geniruphin-junior/Ruphia-IA?style=for-the-badge&color=0284c7"/>
+
+<img src="https://img.shields.io/github/issues-pr/geniruphin-junior/Ruphia-IA?style=for-the-badge&color=0284c7"/>
+
+<img src="https://img.shields.io/github/license/geniruphin-junior/Ruphia-IA?style=for-the-badge&color=0284c7"/>
+
+<br><br>
 
 <a href="https://github.com/geniruphin-junior">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
 </a>
 
 <a href="mailto:geniruphin@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
-
-<a href="https://reddit.com/user/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"/>
-</a>
-
-</p>
 
 </div>
 
 ---
 
-# 👋 About Me
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32"> Hello World
 
-I'm a passionate developer focused on **Artificial Intelligence**, **Data Science**, and **Full Stack Development**.
+```python
+class Ruphin:
 
-My goal is to design software that solves real-world problems through intelligent systems, scientific computing, and modern web technologies.
+    def __init__(self):
 
-Currently, I'm expanding my expertise in modern C++, Machine Learning, backend engineering, and software architecture while building ambitious open-source projects.
+        self.name = "Ruphin Bahati"
 
-> **Dream:** Become a world-class Full Stack Data Scientist and build products that create real impact.
+        self.role = "Scientific Student"
 
----
+        self.languages = [
+            "Python",
+            "C++",
+            "JavaScript"
+        ]
 
-# 🚀 Featured Projects
+        self.current_focus = [
 
-### 🧬 BioPy *(Coming Soon)*
+            "Artificial Intelligence",
 
-A Python ecosystem for medicine and biology.
+            "Data Science",
 
-**Focus**
+            "Scientific Computing",
 
-- Medical data analysis
-- Biological computing
-- Scientific utilities
-- AI for healthcare
-- Research tools
+            "Software Architecture"
+        ]
 
----
+        self.goal = (
+            "Build software that solves real-world problems."
+        )
 
-### 💬 DevChat *(In Development)*
+    def motto(self):
 
-A collaborative platform designed for African developers.
-
-**Features**
-
-- AI Coding Assistant
-- Developer Community
-- Team Collaboration
-- Knowledge Sharing
-- Modern Messaging
+        return "Learn • Build • Improve"
+```
 
 ---
 
-### 🌍 Profilio *(Coming Soon)*
+<div align="center">
 
-A modern developer portfolio platform.
+# ⚡ Current Journey
 
-Built to help developers showcase:
+<table>
 
-- Projects
-- Skills
-- Experience
-- GitHub Activity
-- Professional Resume
+<tr>
+
+<td align="center" width="25%">
+
+<img width="80" src="https://skillicons.dev/icons?i=python">
+
+### Python
+
+Building AI tools
+
+</td>
+
+<td align="center" width="25%">
+
+<img width="80" src="https://skillicons.dev/icons?i=cpp">
+
+### Modern C++
+
+Learning performance programming
+
+</td>
+
+<td align="center" width="25%">
+
+<img width="80" src="https://skillicons.dev/icons?i=js">
+
+### JavaScript
+
+Modern Web Applications
+
+</td>
+
+<td align="center" width="25%">
+
+<img width="80" src="https://skillicons.dev/icons?i=git">
+
+### Open Source
+
+Building public projects
+
+</td>
+
+</tr>
+
+</table>
+
+</div>
 
 ---
 
-# 🛠 Languages & Technologies
+# 🚀 Development Dashboard
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,cpp,js,ts,nodejs,firebase,flask,fastapi,pytorch,tensorflow,git,github,docker,vscode&perline=7"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=geniruphin-junior&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 
-</p>
-
-<p align="center">
-
-<img src="https://go-skill-icons.vercel.app/api/icons?i=sklearn,plotly,dash"/>
-
-</p>
-
----
-
-# 💡 Areas of Interest
-
-- Artificial Intelligence
-- Machine Learning
-- Data Science
-- Scientific Computing
-- Backend Development
-- Full Stack Applications
-- Data Visualization
-- Open Source
-
----
-
-# 🌱 Currently Learning
-
-- Modern C++
-- Software Architecture
-- Machine Learning
-- Deep Learning
-- Algorithms
-- Data Structures
-
----
-
-# 📊 GitHub Analytics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=geniruphin-junior&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=geniruphin-junior&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=geniruphin-junior&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -140,21 +146,9 @@ Built to help developers showcase:
 
 ---
 
-# 🤝 Connect With Me
-
 <p align="center">
 
-<a href="mailto:geniruphin@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/geniruphin-junior">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://reddit.com/user/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"/>
-</a>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=geniruphin-junior&theme=tokyo-night&hide_border=true"/>
 
 </p>
 
@@ -162,8 +156,13 @@ Built to help developers showcase:
 
 <div align="center">
 
-### "Building software that matters."
+## ⚙ Tech Stack
 
-⭐ Thanks for visiting my profile.
+<img src="https://skillicons.dev/icons?i=python,cpp,js,nodejs,flask,fastapi,firebase,git,github,vscode&perline=5"/>
 
 </div>
+
+---
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:38bdf8,100:020617"/>
+````
