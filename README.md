@@ -13,9 +13,7 @@
 
 <img src="https://img.shields.io/github/commit-activity/m/geniruphin-junior/Ruphia-IA?style=for-the-badge&color=0284c7"/>
 
-<img src="https://img.shields.io/github/issues/geniruphin-junior/Ruphia-IA?style=for-the-badge&color=0284c7"/>
 
-<img src="https://img.shields.io/github/issues-pr/geniruphin-junior/Ruphia-IA?style=for-the-badge&color=0284c7"/>
 
 <img src="https://img.shields.io/github/license/geniruphin-junior/Ruphia-IA?style=for-the-badge&color=0284c7"/>
 
