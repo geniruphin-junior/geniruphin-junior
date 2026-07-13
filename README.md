@@ -56,5 +56,44 @@ class Ruphin:
 
     def mission(self):
         return "Build software that solves real-world problems."
+```
+
+# 👋 About Me
+
+```yaml
+Name:
+  Ruphin Bahati
+
+Education:
+  Scientific High School Student
+
+Location:
+  Democratic Republic of the Congo 🇨🇩
+
+Favorite Language:
+  Python 🐍
+
+Current Focus:
+  - Data Science
+  - Artificial Intelligence
+  - Scientific Computing
+  - Software Architecture
+
+Currently Learning:
+  - Modern C++
+  - Modern JavaScript
+  - Machine Learning
+
+Currently Building:
+  - 📊 Data Analyzer
+  - 🤖 Ruphia AI
+
+Future Projects:
+  - 🧬 BioPy
+    An open-source scientific toolkit for biology and research.
+
+Goal:
+  Build reliable software that solves real-world problems and continuously improve through open-source development.
+```
 
 ```
