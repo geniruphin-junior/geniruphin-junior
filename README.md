@@ -1,6 +1,7 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:020617,25:0f172a,50:0369a1,75:0ea5e9,100:38bdf8&text=RUPHIN%20BAHATI&fontColor=ffffff&fontSize=60&animation=fadeIn&fontAlignY=38&desc=Python%20Developer%20•%20AI%20Builder%20•%20Scientific%20Computing&descAlignY=57"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:020617,25:0f172a,50:0369a1,75:0ea5e9,100:38bdf8&text=RUPHIN%20BAHATI&fontColor=ffffff&fontSize=60&animation=fadeIn&fontAlignY=38&desc"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2000&pause=300&color=38BDF8&center=true&vCenter=true&width=950&lines=Python+Developer;AI+Enthusiast;Data+Science+Learner;Scientific+Computing;Modern+C%2B%2B+Learner;Building+Data+Analyzer;Building+Ruphia+AI;Future+Creator+of+BioPy;Open+Source+Developer;Always+Learning"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1500&color=38BDF8&center=true&vCenter=true&width=900&lines=Building+Software+That+Matters;Python+•+C%2B%2B+•+JavaScript;Artificial+Intelligence;Data+Science;Scientific+Computing;Open+Source+Developer"/>
 
