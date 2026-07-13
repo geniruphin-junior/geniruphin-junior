@@ -220,6 +220,7 @@ Goal:
 | ⏳ | Start the development of **BioPy** |
 | ⏳ | Contribute to more open-source projects |
 | ⏳ | Reach **500+ GitHub contributions** |
+
 # 📚 Currently Learning
 
 - ⚛️ React
@@ -242,3 +243,20 @@ An open-source scientific toolkit for biology, research and scientific computing
 - 📊 Biological Data Analysis
 - 🤖 AI-assisted Research
 - 📚 Educational Resources
+  # 🤝 Let's Connect
+
+<p align="center">
+
+<a href="https://github.com/geniruphin-junior">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="mailto:geniruphin@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://devchat-ruphin.web.app">
+<img src="https://img.shields.io/badge/Portfolio-0284C7?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+
+</p>
