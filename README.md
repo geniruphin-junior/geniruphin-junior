@@ -227,3 +227,18 @@ Goal:
 - ⚙️ Modern C++
 - 🤖 Machine Learning
 - 🏗️ Software Architecture
+- # 🔬 Future Projects
+
+## 🧬 BioPy
+
+An open-source scientific toolkit for biology, research and scientific computing.
+
+**Current Status:** 🟦 Planning & Design
+
+### Planned Modules
+
+- 🌿 Biological Computing
+- 🔬 Research Utilities
+- 📊 Biological Data Analysis
+- 🤖 AI-assisted Research
+- 📚 Educational Resources
