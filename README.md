@@ -172,7 +172,7 @@ Goal:
 
 **Tech**
 
-`Python`
+`Python` `flask` `numpy` `sympy` `js` `html` `css`
 
 <a href="https://github.com/geniruphin-junior/Ruphia-IA">
 <img src="https://img.shields.io/badge/View_Project-0284C7?style=for-the-badge"/>
