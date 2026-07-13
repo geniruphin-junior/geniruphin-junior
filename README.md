@@ -126,5 +126,62 @@ Goal:
 <p>
 <img src="https://skillicons.dev/icons?i=flask,fastapi,firebase,git,github,vscode"/>
 </p>
+# 🚀 Featured Projects
+
+<table>
+
+<tr>
+
+<td width="50%">
+
+## 📊 Data Analyzer
+
+**A modular platform for data analysis and visualization built with Python.**
+
+**Highlights**
+
+- 📂 CSV & Excel Support
+- 📊 Interactive Dashboards
+- 🧹 Data Cleaning
+- 📈 Statistical Analysis
+- 🤖 AI Executive Summary
+
+**Tech**
+
+`Python` `Pandas` `Polars` `Plotly` `Streamlit`
+
+<a href="https://github.com/geniruphin-junior/data-analizer-files">
+<img src="https://img.shields.io/badge/View_Project-0284C7?style=for-the-badge"/>
+</a>
+
+</td>
+
+<td width="50%">
+
+## 🤖 Ruphia AI
+
+**An offline AI assistant designed to automate local workflows and improve productivity.**
+
+**Highlights**
+
+- 💬 Conversational Assistant
+- ⚙️ Local Automation
+- 📁 File Management
+- 🖥 Hybrid Terminal
+- 🧠 AI Experiments
+
+**Tech**
+
+`Python`
+
+<a href="https://github.com/geniruphin-junior/Ruphia-IA">
+<img src="https://img.shields.io/badge/View_Project-0284C7?style=for-the-badge"/>
+</a>
+
+</td>
+
+</tr>
+
+</table>
 
 ```
