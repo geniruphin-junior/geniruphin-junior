@@ -126,7 +126,8 @@ Goal:
 <p>
 <img src="https://skillicons.dev/icons?i=flask,fastapi,firebase,git,github,vscode"/>
 </p>
-# 🚀 Featured Projects
+
+## 🚀 Featured Projects
 
 <table>
 
@@ -207,3 +208,15 @@ Goal:
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=geniruphin-junior&theme=tokyo-night&hide_border=true"/>
 
 </p>
+# 🎯 Roadmap 2026
+
+| Status | Goal |
+|:------:|------|
+| ✅ | Continue improving **Data Analyzer** |
+| 🔄 | Learn **React** and build modern web interfaces |
+| 🔄 | Master **SQL** for databases and data analysis |
+| 🔄 | Improve **Modern C++** and software architecture |
+| 🔄 | Explore more **Machine Learning** with Scikit-Learn |
+| ⏳ | Start the development of **BioPy** |
+| ⏳ | Contribute to more open-source projects |
+| ⏳ | Reach **500+ GitHub contributions** |
