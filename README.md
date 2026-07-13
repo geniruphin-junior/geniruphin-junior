@@ -220,3 +220,10 @@ Goal:
 | ⏳ | Start the development of **BioPy** |
 | ⏳ | Contribute to more open-source projects |
 | ⏳ | Reach **500+ GitHub contributions** |
+# 📚 Currently Learning
+
+- ⚛️ React
+- 🗄️ SQL
+- ⚙️ Modern C++
+- 🤖 Machine Learning
+- 🏗️ Software Architecture
