@@ -103,7 +103,7 @@ Goal:
 <img src="https://skillicons.dev/icons?i=python,cpp,js,html,css"/>
 </p>
 
-### 📊 Data Science & AI
+### 📊 Data Libraries & AI
 
 <p>
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
@@ -112,6 +112,7 @@ Goal:
 <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
 <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white"/>
 <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+<img src="https://img.shields.io/badge/BioPython-009688?style=for-the-badge"/>
 </p>
 
 ### 🌐 Web Development
