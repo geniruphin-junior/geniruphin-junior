@@ -45,7 +45,8 @@ class Ruphin:
         self.languages = [
             "Python",
             "C++",
-            "JavaScript"
+            "JavaScript",
+            "SQL"
         ]
 
         self.interests = [
@@ -87,7 +88,7 @@ Currently Learning:
 
 Currently Building:
   - 📊 Data Analyzer
-  - 🤖 Ruphia AI
+  - 🤖 Ruphia A & DevchatOS
 
 Future Projects:
   - 🧬 BioPy
