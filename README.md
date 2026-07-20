@@ -73,7 +73,7 @@ Location:
   Democratic Republic of the Congo 🇨🇩
 
 Favorites Languages:
-  Python 🐍
+  Python 🐍,js
 
 Current Focus:
   - Data Science
