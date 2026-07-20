@@ -72,7 +72,7 @@ Education:
 Location:
   Democratic Republic of the Congo 🇨🇩
 
-Favorite Language:
+Favorites Languages:
   Python 🐍
 
 Current Focus:
