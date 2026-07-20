@@ -221,7 +221,7 @@ Goal:
 | 🔄 | Explore more **Machine Learning** with Scikit-Learn |
 | ⏳ | Start the development of **BioPy** |
 | ⏳ | Contribute to more open-source projects |
-| ⏳ | Reach **500+ GitHub contributions** |
+| ⏳ | Reach **1000+ GitHub contributions** |
 
 # 📚 Currently Learning
 
