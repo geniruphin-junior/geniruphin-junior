@@ -241,7 +241,7 @@ An open-source scientific toolkit for biology, research and scientific computing
 ### Planned Modules
 
 - 🌿 Biological Computing
-- 🔬 Research Utilities
+  
 - 📊 Biological Data Analysis
 - 🤖 AI-assisted Research
 - 📚 Educational Resources
