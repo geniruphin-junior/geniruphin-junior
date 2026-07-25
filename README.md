@@ -8,6 +8,7 @@
 <br>
 
 <img src="https://komarev.com/ghpvc/?username=geniruphin-junior&label=Profile+Views&style=for-the-badge&color=0ea5e9"/>
+[![committers.top badge](https://committers.top)](https://committers.top)
 
 <img src="https://img.shields.io/github/license/geniruphin-junior/Ruphia-IA?style=for-the-badge&color=0284c7"/>
 
@@ -15,11 +16,9 @@
 <a href="https://github.com/geniruphin-junior">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-
 <a href="mailto:geniruphin@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-
 <a href="https://devchat-ruphin.web.app">
 <img src="https://img.shields.io/badge/Portfolio-0284C7?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
