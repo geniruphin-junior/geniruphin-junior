@@ -12,7 +12,6 @@
 <img src="https://img.shields.io/github/license/geniruphin-junior/Ruphia-IA?style=for-the-badge&color=0284c7"/>
 
 <br><br>
-
 <a href="https://github.com/geniruphin-junior">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
