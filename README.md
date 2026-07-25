@@ -21,7 +21,9 @@
 <a href="https://devchat-ruphin.web.app">
 <img src="https://img.shields.io/badge/Portfolio-0284C7?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
-
+[![committers.top badge](https://committers.top)](https://committers.top)
+<br>
+📊 **Ranked #22 Most Active GitHub Developer in DRC 🇨🇩**
 </div>
 
 ---
