@@ -39,7 +39,7 @@ class Ruphin:
         self.role = "Python Developer"
 
         self.location = "Democratic Republic of the Congo 🇨🇩"
-
+        self.drc_github_rank = "#22 Most Active Developer  🏆"
         self.languages = [
             "Python",
             "C++",
