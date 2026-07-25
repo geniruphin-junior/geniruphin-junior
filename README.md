@@ -8,7 +8,6 @@
 <br>
 
 <img src="https://komarev.com/ghpvc/?username=geniruphin-junior&label=Profile+Views&style=for-the-badge&color=0ea5e9"/>
-[![committers.top badge](https://committers.top)](https://committers.top)
 
 <img src="https://img.shields.io/github/license/geniruphin-junior/Ruphia-IA?style=for-the-badge&color=0284c7"/>
 
