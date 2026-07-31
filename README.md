@@ -153,105 +153,63 @@ me = Ruphin()
 <table>
 <tr>
 
-<td width="50%">
+<td width="33%">
 
-<h3 align="center">📊 Data Analyzer</h3>
+### 📊 Data Analyzer
 
-<p align="center">
 Professional data analysis platform built with Python.
-</p>
 
-<p align="center">
+✅ CSV / Excel analysis  
+✅ Data cleaning automation  
+✅ Interactive visualization  
+✅ Statistical insights  
 
-✔ CSV / Excel analysis  
-<br>
-✔ Data cleaning automation  
-<br>
-✔ Interactive visualization  
-<br>
-✔ Statistical insights  
+**Python • Pandas • Plotly • Streamlit**
 
-</p>
-
-<p align="center">
-
-<b>Python • Pandas • Plotly • Streamlit</b>
-
-</p>
-
-<p align="center">
-<a href="TON_LIEN_GITHUB">
+<a href="TON_LIEN">
 View Project →
 </a>
-</p>
 
 </td>
 
 
-<td width="50%">
+<td width="33%">
 
-<h3 align="center">🤖 Ruphia AI</h3>
+### 🤖 Ruphia AI
 
-<p align="center">
 Personal AI assistant ecosystem.
-</p>
 
-<p align="center">
+✅ AI experiments  
+✅ Automation tools  
+✅ Local applications  
+✅ Intelligent features  
 
-✔ AI experiments  
-<br>
-✔ Automation tools  
-<br>
-✔ Local applications  
-<br>
-✔ Intelligent features  
+**Python • Flask • JavaScript**
 
-</p>
-
-<p align="center">
-
-<b>Python • Flask • JavaScript</b>
-
-</p>
-
-<p align="center">
-<a href="TON_LIEN_GITHUB">
+<a href="TON_LIEN">
 View Project →
 </a>
-</p>
+
+</td>
+
+
+<td width="33%">
+
+### 🧬 BioPy
+
+Python ecosystem for biology and medical data.
+
+✅ DNA analysis  
+✅ Protein tools  
+✅ Biological visualization  
+
+**Python • Biopython • Data Science**
+
+<a href="TON_LIEN">
+View Project →
+</a>
 
 </td>
 
 </tr>
-<td width="50%">
-
-<h3 align="center">🧬 BioPy</h3>
-
-<p align="center">
-Python ecosystem for biology and medical data.
-</p>
-
-<p align="center">
-
-🧬 DNA analysis  
-<br>
-🧪 Biology tools  
-<br>
-📈 Scientific visualization  
-
-</p>
-
-<p align="center">
-
-<b>Python • Biopython • Data Science</b>
-
-</p>
-
-<p align="center">
-
-🚧 Coming Soon
-
-</p>
-
-</td>
 </table>
