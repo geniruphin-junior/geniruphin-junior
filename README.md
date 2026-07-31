@@ -210,12 +210,6 @@ View Project →
 </a>
 
 </td>
-## 📊 GitHub Analytics
 
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=geniruphin-junior&theme=react-dark"/>
-
-</p>
 </tr>
 </table>
