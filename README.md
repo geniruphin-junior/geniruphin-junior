@@ -22,6 +22,7 @@ Python Developer • Data Science • Artificial Intelligence
 <img src="https://img.shields.io/github/stars/geniruphin-junior?style=for-the-badge&logo=github&color=0284c7"/>
 
 <br><br>
+</div>
 
 ## 🐍 Python Identity
 
