@@ -90,5 +90,64 @@ if __name__ == "__main__":
 
     print(me.mission())
 ```
+# 🛠 Tech Stack
+
+<div align="center">
+
+### 💻 Languages
+
+<img src="https://skillicons.dev/icons?i=python,cpp,js,bash,sqlite&theme=dark"/>
+
+<br><br>
+
+### ⚛️ Frontend
+
+<img src="https://skillicons.dev/icons?i=html,css,react&theme=dark"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2500&pause=1000&color=38BDF8&center=true&vCenter=true&width=280&height=35&lines=Currently+Learning+React"/>
+
+<br><br>
+
+### ⚙️ Backend
+
+<img src="https://skillicons.dev/icons?i=flask,fastapi,firebase&theme=dark"/>
+
+<br><br>
+
+### 📊 Data Science & AI
+
+<img src="https://skillicons.dev/icons?i=python&theme=dark"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Polars-CD792C?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/BioPython-009688?style=for-the-badge"/>
+
+<br><br>
+
+### 🛠 Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm,firebase&theme=dark"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
+
+</div>
+
+---
 
 ---
