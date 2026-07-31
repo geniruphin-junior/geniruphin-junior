@@ -23,18 +23,71 @@ Python Developer • Data Science • Artificial Intelligence
 
 <br><br>
 
-<a href="https://github.com/geniruphin-junior">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+## 🐍 Python Identity
 
-<a href="mailto:geniruphin@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+```python
+class Ruphin:
 
-<a href="https://devchat-ruphin.web.app">
-<img src="https://img.shields.io/badge/Portfolio-0284C7?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-</a>
+    def __init__(self):
 
-</div>
+        # Identity
+        self.name = "Ruphin Bahati"
+        self.role = "Python Developer"
+        self.location = "🇨🇩 Democratic Republic of the Congo"
+
+        # Education
+        self.school = "Collège Mwanga"
+
+        # GitHub
+        self.github = "@geniruphin-junior"
+        self.rank = "#19 Most Active Public GitHub Developer in DR Congo 🏆"
+
+        # Languages
+        self.languages = [
+            "Python",
+            "C++",
+            "JavaScript",
+            "SQL"
+        ]
+
+        # Interests
+        self.interests = [
+            "Artificial Intelligence",
+            "Data Science",
+            "Scientific Computing",
+            "Software Engineering"
+        ]
+
+        # Current Projects
+        self.building = [
+            "📊 Data Analyzer",
+            "🤖 Ruphia AI",
+            "💬 DevChat"
+        ]
+
+        # Future Project
+        self.future = "🧬 BioPy"
+
+    def mission(self):
+        return (
+            "Build intelligent software that solves "
+            "real-world problems."
+        )
+
+    def currently_learning(self):
+        return [
+            "Modern C++",
+            "React",
+            "Machine Learning",
+            "Software Architecture"
+        ]
+
+
+if __name__ == "__main__":
+
+    me = Ruphin()
+
+    print(me.mission())
+```
 
 ---
