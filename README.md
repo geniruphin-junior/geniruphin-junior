@@ -146,3 +146,81 @@ me = Ruphin()
 </div>
 
 ---
+<h2 align="center">
+🚀 Featured Projects
+</h2>
+
+<table>
+<tr>
+
+<td width="50%">
+
+<h3 align="center">📊 Data Analyzer</h3>
+
+<p align="center">
+Professional data analysis platform built with Python.
+</p>
+
+<p align="center">
+
+✔ CSV / Excel analysis  
+<br>
+✔ Data cleaning automation  
+<br>
+✔ Interactive visualization  
+<br>
+✔ Statistical insights  
+
+</p>
+
+<p align="center">
+
+<b>Python • Pandas • Plotly • Streamlit</b>
+
+</p>
+
+<p align="center">
+<a href="TON_LIEN_GITHUB">
+View Project →
+</a>
+</p>
+
+</td>
+
+
+<td width="50%">
+
+<h3 align="center">🤖 Ruphia AI</h3>
+
+<p align="center">
+Personal AI assistant ecosystem.
+</p>
+
+<p align="center">
+
+✔ AI experiments  
+<br>
+✔ Automation tools  
+<br>
+✔ Local applications  
+<br>
+✔ Intelligent features  
+
+</p>
+
+<p align="center">
+
+<b>Python • Flask • JavaScript</b>
+
+</p>
+
+<p align="center">
+<a href="TON_LIEN_GITHUB">
+View Project →
+</a>
+</p>
+
+</td>
+
+</tr>
+</table>
