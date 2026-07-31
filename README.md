@@ -223,4 +223,35 @@ View Project →
 </td>
 
 </tr>
+<td width="50%">
+
+<h3 align="center">🧬 BioPy</h3>
+
+<p align="center">
+Python ecosystem for biology and medical data.
+</p>
+
+<p align="center">
+
+🧬 DNA analysis  
+<br>
+🧪 Biology tools  
+<br>
+📈 Scientific visualization  
+
+</p>
+
+<p align="center">
+
+<b>Python • Biopython • Data Science</b>
+
+</p>
+
+<p align="center">
+
+🚧 Coming Soon
+
+</p>
+
+</td>
 </table>
