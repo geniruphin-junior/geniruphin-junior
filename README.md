@@ -87,8 +87,6 @@ class Ruphin:
 if __name__ == "__main__":
 
     me = Ruphin()
-
-    print(me.mission())
 ```
 # 🛠 Tech Stack
 
@@ -96,58 +94,77 @@ if __name__ == "__main__":
 
 ### 💻 Languages
 
-<img src="https://skillicons.dev/icons?i=python,cpp,js,bash,sqlite&theme=dark"/>
+<p>
 
-<br><br>
+<img src="https://skillicons.dev/icons?i=python" width="70"/>
+<img src="https://skillicons.dev/icons?i=cpp" width="70"/>
+<img src="https://skillicons.dev/icons?i=js" width="70"/>
+<img src="https://skillicons.dev/icons?i=bash" width="70"/>
 
-### ⚛️ Frontend
+</p>
 
-<img src="https://skillicons.dev/icons?i=html,css,react&theme=dark"/>
+---
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2500&pause=1000&color=38BDF8&center=true&vCenter=true&width=280&height=35&lines=Currently+Learning+React"/>
+### 🌐 Web & Backend
 
-<br><br>
+<p>
 
-### ⚙️ Backend
+<img src="https://skillicons.dev/icons?i=html" width="70"/>
+<img src="https://skillicons.dev/icons?i=css" width="70"/>
+<img src="https://skillicons.dev/icons?i=react" width="70"/>
+<img src="https://skillicons.dev/icons?i=flask" width="70"/>
+<img src="https://skillicons.dev/icons?i=fastapi" width="70"/>
+<img src="https://skillicons.dev/icons?i=firebase" width="70"/>
 
-<img src="https://skillicons.dev/icons?i=flask,fastapi,firebase&theme=dark"/>
+</p>
 
-<br><br>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1000&color=38BDF8&center=true&width=260&height=35&lines=Currently+Learning+React"/>
+
+---
 
 ### 📊 Data Science & AI
 
-<img src="https://skillicons.dev/icons?i=python&theme=dark"/>
+<p>
 
-<br>
+<img src="https://skillicons.dev/icons?i=python" width="70"/>
 
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://cdn.simpleicons.org/pandas/150458" width="58"/>
 
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://cdn.simpleicons.org/numpy/013243" width="58"/>
 
-<img src="https://img.shields.io/badge/Polars-CD792C?style=for-the-badge"/>
+<img src="https://cdn.simpleicons.org/plotly/3F4F75" width="58"/>
 
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+<img src="https://cdn.simpleicons.org/scikitlearn/F7931E" width="58"/>
 
-<img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white"/>
+<img src="https://cdn.simpleicons.org/streamlit/FF4B4B" width="58"/>
 
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+<img src="https://cdn.simpleicons.org/biopython/009688" width="58"/>
 
-<img src="https://img.shields.io/badge/BioPython-009688?style=for-the-badge"/>
+</p>
 
-<br><br>
+---
 
 ### 🛠 Tools
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm,firebase&theme=dark"/>
+<p>
 
-<br>
+<img src="https://skillicons.dev/icons?i=git" width="70"/>
 
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=github" width="70"/>
 
-<img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=vscode" width="70"/>
+
+<img src="https://skillicons.dev/icons?i=pycharm" width="70"/>
+
+<img src="https://skillicons.dev/icons?i=sqlite" width="70"/>
+
+<img src="https://cdn.simpleicons.org/jupyter/F37626" width="58"/>
+
+</p>
 
 </div>
 
 ---
 
----
+    print(me.mission())
+```
