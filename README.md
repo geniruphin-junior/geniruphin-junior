@@ -213,3 +213,59 @@ View Project →
 
 </tr>
 </table>
+<!-- ======================= -->
+<!--     GitHub Analytics    -->
+<!-- ======================= -->
+
+<h2 align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="28">
+  GitHub Analytics
+</h2>
+
+<p align="center">
+
+  <!-- GitHub Stats -->
+  <img
+    width="49%"
+    src="https://github-readme-stats.vercel.app/api?username=geniruphin-junior&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&rank_icon=github&include_all_commits=true"
+  />
+
+  <!-- Top Languages -->
+  <img
+    width="49%"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=geniruphin-junior&layout=compact&theme=tokyonight&hide_border=true&border_radius=15"
+  />
+
+</p>
+
+<p align="center">
+
+<img
+width="98%"
+src="https://streak-stats.demolab.com?user=geniruphin-junior&theme=tokyonight&hide_border=true&border_radius=15"
+/>
+
+</p>
+
+---
+
+## 🌃 3D Contribution Graph
+
+<p align="center">
+
+<img
+width="100%"
+src="./profile-3d-contrib/profile-night-rainbow.svg"/>
+
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+
+<img
+src="https://raw.githubusercontent.com/geniruphin-junior/geniruphin-junior/output/github-contribution-grid-snake-dark.svg"/>
+
+</p>
