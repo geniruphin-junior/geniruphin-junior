@@ -213,6 +213,35 @@ View Project →
 
 </tr>
 </table>
+<!-- ========================================= -->
+<!--           GitHub Analytics               -->
+<!-- ========================================= -->
+
+<h2 align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="28" />
+  GitHub Analytics
+</h2>
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/geniruphin-junior/geniruphin-junior/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+
+<img width="49%"
+src="https://github-readme-stats.vercel.app/api?username=geniruphin-junior&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&rank_icon=github&include_all_commits=true&count_private=true"/>
+
+<img width="49%"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=geniruphin-junior&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&langs_count=8"/>
+
+</p>
+
+<p align="center">
+
+<img width="98%"
+src="https://streak-stats.demolab.com?user=geniruphin-junior&theme=tokyonight&hide_border=true&background=00000000"/>
+
+</p>
+
+<p align="center">
+
+<img width="98%"
+src="https://github-profile-trophy.vercel.app/?username=geniruphin-junior&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=12"/>
+
 </p>
