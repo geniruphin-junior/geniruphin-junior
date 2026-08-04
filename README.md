@@ -75,13 +75,7 @@ class Ruphin:
             "real-world problems."
         )
 
-    def currently_learning(self):
-        return [
-            "Modern C++",
-            "React",
-            "Machine Learning",
-            "Software Architecture"
-        ]
+
 
 
 if __name__ == "__main__":
