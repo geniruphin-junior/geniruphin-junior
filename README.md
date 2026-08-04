@@ -41,7 +41,7 @@ class Ruphin:
 
         # GitHub
         self.github = "@geniruphin-junior"
-        self.rank = "#19 Most Active Public GitHub Developer in DR Congo 🏆"
+        self.rank = "#16 Most Active Public GitHub Developer in DR Congo 🏆"
 
         # Languages
         self.languages = [
