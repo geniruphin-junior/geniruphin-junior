@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:020617,30:0F172A,60:0369A1,100:38BDF8&text=RUPHIN%2BAHATI&fontColor=ffffff&fontSize=50&fontAlignY=38&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:020617,30:0F172A,60:0369A1,100:38BDF8&text=RUPHINR%20BAHATI%20&fontColor=ffffff&fontSize=50&fontAlignY=38&animation=fadeIn"/>
 
 <h1>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32"/>
