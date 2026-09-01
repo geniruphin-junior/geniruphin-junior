@@ -1,17 +1,15 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:020617,30:0F172A,60:0369A1,100:38BDF8&text=RUPHIN%20BAHATI&fontColor=ffffff&fontSize=58&fontAlignY=38&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:020617,30:0F172A,60:0369A1,100:38BDF8&text=AI%20ENGINEER%20IN%20THE%20MAKING&fontColor=ffffff&fontSize=50&fontAlignY=38&animation=fadeIn"/>
 
 <h1>
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32"/>
-Hi, I'm Ruphin
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32"/>
+  Hi, I'm Ruphin
 </h1>
 
-<h3>
-Python Developer • Data Science • Artificial Intelligence
-</h3>
+<h3>🚀 AI Developer • Data Scientist • Future AI Engineer</h3>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2500&pause=500&color=38BDF8&center=true&vCenter=true&width=900&lines=Building+Software+That+Matters;Python+Developer;Artificial+Intelligence+Enthusiast;Data+Science+Learner;Scientific+Computing;Open+Source+Contributor;Future+Creator+of+BioPy"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2500&pause=500&color=38BDF8&center=true&vCenter=true&width=1000&lines=Building+Intelligent+Software;Python+%7C+PyTorch+%7C+TensorFlow;Data+Science+%26+Machine+Learning;Deep+Learning+Enthusiast;Future+AI+Engineer+%F0%9F%94%A5"/>
 
 <br>
 
@@ -21,8 +19,14 @@ Python Developer • Data Science • Artificial Intelligence
 
 <img src="https://img.shields.io/github/stars/geniruphin-junior?style=for-the-badge&logo=github&color=0284c7"/>
 
+<!-- BADGES KAGGLE & COLAB -->
+<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white"/>
+<img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white"/>
+
 <br><br>
 </div>
+
+---
 
 ## 🐍 Python Identity
 
@@ -33,7 +37,7 @@ class Ruphin:
 
         # Identity
         self.name = "Ruphin Bahati"
-        self.role = "Python Developer"
+        self.role = "Python Developer & AI Enthusiast"
         self.location = "🇨🇩 Democratic Republic of the Congo"
 
         # Education
@@ -75,139 +79,5 @@ class Ruphin:
             "real-world problems."
         )
 
-
-
-
 if __name__ == "__main__":
-me = Ruphin()
-```
-# 🛠 Tech Stack
-
-<div align="center">
-
-<h3>💻 Programming Languages</h3>
-
-<img src="https://techstack-generator.vercel.app/python-icon.svg" width="75"/>
-<img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="75"/>
-<img src="https://techstack-generator.vercel.app/js-icon.svg" width="75"/>
-<img src="https://skillicons.dev/icons?i=bash" width="72"/>
-
-<br><br>
-
-<h3>🌐 Frontend Development</h3>
-
-<img src="https://techstack-generator.vercel.app/react-icon.svg" width="78"/>
-<img src="https://skillicons.dev/icons?i=html,css" width="145"/>
-
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&pause=1200&color=38BDF8&center=true&vCenter=true&width=260&height=35&lines=Currently+Learning+React"/>
-
-<br><br>
-
-<h3>⚙️ Backend Development</h3>
-
-<img src="https://techstack-generator.vercel.app/django-icon.svg" width="60"/>
-
-<img src="https://skillicons.dev/icons?i=fastapi,flask,firebase" width="220"/>
-
-<br><br>
-
-<h3>📊 Data Science & AI</h3>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" width="58"/>
-
-<img src="https://cdn.simpleicons.org/pandas/150458" width="56"/>
-
-<img src="https://cdn.simpleicons.org/numpy/013243" width="56"/>
-
-<img src="https://cdn.simpleicons.org/scikitlearn/F7931E" width="56"/>
-
-<img src="https://cdn.simpleicons.org/plotly/3F4F75" width="56"/>
-
-<img src="https://cdn.simpleicons.org/streamlit/FF4B4B" width="56"/>
-
-<img src="https://cdn.simpleicons.org/biopython/009688" width="56"/>
-
-<br><br>
-
-<h3>🛠 Tools</h3>
-
-<img src="https://techstack-generator.vercel.app/git-icon.svg" width="70"/>
-
-<img src="https://skillicons.dev/icons?i=github,vscode,pycharm,sqlite" width="260"/>
-
-</div>
-
----
-<h2 align="center">
-🚀 Featured Projects
-</h2>
-
-<table>
-<tr>
-
-<td width="33%">
-
-### 📊 Data Analyzer
-
-Professional data analysis platform built with Python.
-
-✅ CSV / Excel analysis  
-✅ Data cleaning automation  
-✅ Interactive visualization  
-✅ Statistical insights  
-
-**Python • Pandas • Plotly • Streamlit**
-
-<a href="TON_LIEN">
-View Project →
-</a>
-
-</td>
-
-
-<td width="33%">
-
-### 🤖 Ruphia AI
-
-Personal AI assistant ecosystem.
-
-✅ AI experiments  
-✅ Automation tools  
-✅ Local applications  
-✅ Intelligent features  
-
-**Python • Flask • JavaScript**
-
-<a href="TON_LIEN">
-View Project →
-</a>
-
-</td>
-
-
-<td width="33%">
-
-### 🧬 BioPy
-
-Python ecosystem for biology and medical data.
-
-✅ DNA analysis  
-✅ Protein tools  
-✅ Biological visualization  
-
-**Python • Biopython • Data Science**
-
-<a href="TON_LIEN">
-View Project →
-</a>
-
-</td>
-
-</tr>
-</table>
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=geniruphin-junior&show_icons=true&theme=tokyonight" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=geniruphin-junior&layout=compact&theme=tokyonight" />
-</p>
+    me = Ruphin()
